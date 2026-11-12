@@ -25,9 +25,11 @@ I build scalable, high-quality iOS applications with a focus on clean architectu
 
 ### 🤝 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/arshad-mustafa-03905225b](https://linkedin.com/in/arshad-mustafa-03905225b)
+- **Portfolio:** [arshad-portfolio-steel.vercel.app](https://arshad-portfolio-steel.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/arshad-mustafa-ios](https://www.linkedin.com/in/arshad-mustafa-ios/)
+- **WhatsApp:** [Let's Connect](https://wa.me/message/GJ52RA6GQ6E4C1)
+- **Discord:** [Connect on Discord](https://discord.com/users/1280406021726015548)
 - **Email:** arshadmustafa129@gmail.com
-- **WhatsApp:** [Contact Me](https://wa.me/923352428032)
 - **GitHub:** [@Arshad937](https://github.com/Arshad937)
 
 ---
